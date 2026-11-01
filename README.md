@@ -6,6 +6,4 @@ Master of Information Technology (Applied AI) student, building toward a career 
 
 🎯 **Looking for:** vacation programs and internships in Australia.
 
-**Focus:** linear algebra · statistics · databases · programming · machine learning · LLMs · cyber security · futures trading and risk management
-
-**Flagship projects:** coming soon.
+**Focus:** linear algebra · statistics · databases · programming · machine learning · LLMs · cyber security.
