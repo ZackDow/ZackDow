@@ -1,9 +1,7 @@
 ### Hi, I'm Zack Dow
 
-Master of Information Technology (Applied AI) student, building toward a career in machine learning, security and quantitative risk.
+Master of Information Technology (Applied AI) student. Looking for vacation programs and internships in Australia.
 
-🏆 **[Trophy Room of Leviathan](https://github.com/ZackDow/trophy-room-of-leviathan)**: my public record of self-study. Every course, challenge and note I finish, with what I learned.
+**Focus:** linear algebra · statistics · databases · programming · machine learning · LLMs · cyber security
 
-🎯 **Looking for:** vacation programs and internships in Australia.
-
-**Focus:** linear algebra · statistics · databases · programming · machine learning · LLMs · cyber security.
+🏆 **[Trophy Room of Leviathan](https://github.com/ZackDow/trophy-room-of-leviathan)**: everything I finish outside my degree. So far: OverTheWire Bandit (33 of 33), 41 picoCTF challenges, 19 TryHackMe rooms.
